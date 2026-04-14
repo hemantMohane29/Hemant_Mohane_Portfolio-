@@ -29,7 +29,7 @@ const Hero = () => {
             </span>
           </h1>
 
-          <h2 className="text-xl md:text-2xl font-bold bg-gradient-to-r from-teal-600 to-pink-600 dark:from-teal-400 dark:to-pink-500 bg-clip-text text-transparent mb-5 transition-colors">
+          <h2 className="text-xl md:text-2xl   font-bold bg-gradient-to-r from-teal-600 to-pink-600 dark:from-teal-400 dark:to-pink-500 bg-clip-text text-transparent mb-5 transition-colors">
             Turning ideas into digital realities.
           </h2>
 
