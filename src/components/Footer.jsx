@@ -72,7 +72,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="pt-8 border-t border-neutral-200 dark:border-neutral-900 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-neutral-500 text-sm font-bold transition-colors">
-            © {currentYear} Hemant Mohane. All rights reserved.
+            © {currentYear} HM. All rights reserved.
           </p>
           <p className="text-neutral-500 text-sm flex items-center gap-1.5 font-bold transition-colors">
             Designed & Built with ❤️ by <span className="text-brand-600 dark:text-brand-400">HM</span>

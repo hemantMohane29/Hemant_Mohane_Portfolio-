@@ -95,9 +95,9 @@ const About = () => {
   return (
     <section id="about" className="pt-20 md:pt-24 pb-24 container mx-auto px-6 md:px-12 relative transition-colors duration-500">
       <div className="max-w-6xl mx-auto">
-        
+
         {/* Header */}
-        <motion.div 
+        <motion.div
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5 }}
@@ -111,7 +111,7 @@ const About = () => {
         </motion.div>
 
         {/* Profile Section */}
-        <motion.div 
+        <motion.div
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.2 }}
@@ -153,8 +153,8 @@ const About = () => {
             </div>
 
             <div className="flex flex-wrap gap-4 pt-4">
-              <a 
-                href="/Hemant%20Mohane%20resume.pdf" 
+              <a
+                href="/Hemant%20Mohane%20resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-8 py-3 bg-brand-500 hover:bg-brand-400 text-neutral-950 font-bold rounded-full transition-all flex items-center gap-2 shadow-lg hover:shadow-brand-500/20 active:scale-95"
@@ -186,7 +186,7 @@ const About = () => {
         {/* Tabbed Detailed Section */}
         <div className="mb-6 relative">
           <div className="absolute inset-0 bg-brand-500/5 blur-[100px] pointer-events-none -z-10"></div>
-          
+
           <div className="flex flex-wrap justify-center gap-2 mb-10">
             {[
               { id: 'work', label: 'Work', icon: <Briefcase size={14} /> },
@@ -197,8 +197,8 @@ const About = () => {
                 key={tab.id}
                 onClick={() => setActiveTab(tab.id)}
                 className={`flex items-center gap-1.5 px-6 py-2.5 rounded-xl font-bold text-xs transition-all uppercase tracking-widest ${activeTab === tab.id
-                    ? 'bg-brand-500 text-neutral-950 shadow-[0_0_15px_rgba(245,158,11,0.3)]'
-                    : 'bg-neutral-100 dark:bg-neutral-900/50 text-neutral-500 dark:text-neutral-400 hover:text-neutral-950 dark:hover:text-white border border-neutral-200 dark:border-neutral-800 hover:border-neutral-300 dark:hover:border-neutral-700'
+                  ? 'bg-brand-500 text-neutral-950 shadow-[0_0_15px_rgba(245,158,11,0.3)]'
+                  : 'bg-neutral-100 dark:bg-neutral-900/50 text-neutral-500 dark:text-neutral-400 hover:text-neutral-950 dark:hover:text-white border border-neutral-200 dark:border-neutral-800 hover:border-neutral-300 dark:hover:border-neutral-700'
                   }`}
               >
                 {tab.icon}
