@@ -54,8 +54,8 @@ Here are some of my featured projects:
 - Features:
   - Feature 1
   - Feature 2
-- 🔗 Live Demo: []
-- 📁 GitHub: []
+- 🔗 Live Demo: [https://ai-base-chatbot-radha-1-0.vercel.app/]
+- 📁 GitHub: [https://github.com/hemantMohane29/AI-Base-CHATBOT-Radha-1.0-]
 
 ---
 
