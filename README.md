@@ -48,14 +48,14 @@ I enjoy solving real-world problems using data-driven approaches and modern web 
 
 Here are some of my featured projects:
 
-### 🔹 Project 1: [Project Name]
+### 🔹 Project 1: [Basic AI ChatBot]
 - Description: Short explanation of the project
-- Tech Stack: React, Node.js, MongoDB
+- Tech Stack: HTML5 , CSS3, JSES+6
 - Features:
   - Feature 1
   - Feature 2
-- 🔗 Live Demo: [Link]
-- 📁 GitHub: [Repo Link]
+- 🔗 Live Demo: []
+- 📁 GitHub: []
 
 ---
 
