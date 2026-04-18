@@ -59,7 +59,7 @@ Here are some of my featured projects:
 
 ---
 
-### 🔹 Project 2: [AI Base CHATBOT Radha 2.0 ]
+### 🔹 Project 2: [AI Base CHATBOT Radha 2.0]
 - Description: Short explanation
 - Tech Stack: Python / ML
 - Features:
