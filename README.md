@@ -59,13 +59,14 @@ Here are some of my featured projects:
 
 ---
 
-### 🔹 Project 2: [Project Name]
+### 🔹 Project 2: [AI Base CHATBOT Radha 2.0 ]
 - Description: Short explanation
 - Tech Stack: Python / ML
 - Features:
   - Prediction model
   - Data visualization
-- 🔗 GitHub: [Repo Link]
+- 🔗 Live Demo: [https://advanced-ai-base-chatbot-radha-2-0.vercel.app/] 
+- 🔗 GitHub: [[Repo Link]](https://github.com/hemantMohane29/Advanced-AI-Base-CHATBOT-Radha-2.0-)
 
 ---
 
