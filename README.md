@@ -59,7 +59,7 @@ Here are some of my featured projects:
 
 ---
 
-### 🔹 Project 2: [AI Base CHATBOT Radha 2.0]
+### 🔹 Project 2: [Advance AI Base CHATBOT Radha 2.0]
 - Description: Short explanation
 - Tech Stack: Python / ML
 - Features:
@@ -70,10 +70,12 @@ Here are some of my featured projects:
 
 ---
 
-### 🔹 Project 3: [Project Name]
+### 🔹 Project 3: [AI Base Website Builder Application]
 - Description: Short explanation
 - Tech Stack: MERN Stack
-- 🔗 Live Demo: [Link]
+- 🔗 Live Demo: [https://hemantmohane29.github.io/SAMADHAN-2.0-WEBSITE-BUILDER-APPLICATION-/]
+- 🔗 GitHub: []
+
 
 ---
 
