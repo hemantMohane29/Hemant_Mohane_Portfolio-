@@ -74,7 +74,7 @@ Here are some of my featured projects:
 - Description: Short explanation
 - Tech Stack: MERN Stack
 - 🔗 Live Demo: [https://hemantmohane29.github.io/SAMADHAN-2.0-WEBSITE-BUILDER-APPLICATION-/]
-- 🔗 GitHub: []
+- 🔗 GitHub: [https://github.com/hemantMohane29/SAMADHAN-2.0-WEBSITE-BUILDER-APPLICATION-]
 
 
 ---
