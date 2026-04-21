@@ -105,9 +105,9 @@ Here are some of my featured projects:
 
 ## 📫 Contact Me
 
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
-- 💻 GitHub: https://github.com/your-username  
+- 📧 Email: hemantmohane29@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/hemant-mohane-35440a330/
+- 💻 GitHub: https://github.com/hemantMohane29
 
 ---
 
