@@ -78,19 +78,19 @@ Here are some of my featured projects:
 
 ---
 
-### 🔹 Project 4: [AI Base Website Builder Application]
+### 🔹 Project 4: [ ]
 - Description: Short explanation
 - Tech Stack: MERN Stack
-- 🔗 Live Demo: [https://hemantmohane29.github.io/SAMADHAN-2.0-WEBSITE-BUILDER-APPLICATION-/]
-- 🔗 GitHub: [https://github.com/hemantMohane29/SAMADHAN-2.0-WEBSITE-BUILDER-APPLICATION-]
+- 🔗 Live Demo: [ ]
+- 🔗 GitHub: [ ]
 
 ---
 
-### 🔹 Project 5: [AI Base Website Builder Application]
+### 🔹 Project 5: [ ]
 - Description: Short explanation
 - Tech Stack: MERN Stack
-- 🔗 Live Demo: [https://hemantmohane29.github.io/SAMADHAN-2.0-WEBSITE-BUILDER-APPLICATION-/]
-- 🔗 GitHub: [https://github.com/hemantMohane29/SAMADHAN-2.0-WEBSITE-BUILDER-APPLICATION-]
+- 🔗 Live Demo: []
+- 🔗 GitHub: []
 
 
 ---
