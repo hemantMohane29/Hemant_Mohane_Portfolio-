@@ -120,7 +120,6 @@ Here are some of my featured projects:
 ---
 
 ## 🧾 How to Run Locally
-
 ```bash
 git clone https://github.com/your-username/portfolio.git
 cd portfolio
