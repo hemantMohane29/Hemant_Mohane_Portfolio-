@@ -9,7 +9,7 @@ const projects = [
     icon: <MessageSquare size={26} strokeWidth={1.5} />,
     tech: ["HTML", "CSS", "JavaScript"],
     github: "#",
-    live: "https://hemantmohane29.github.io/AI-Base-CHATBOT-Radha-1.0-/",
+    live: "https://ai-base-chatbot-radha-1-0.vercel.app/",
     image: "/chatbot.png"
   },
   {
@@ -18,7 +18,7 @@ const projects = [
     icon: <MessageSquare size={26} strokeWidth={1.5} />,
     tech: ["HTML", "CSS", "JavaScript", "Gemini API"],
     github: "#",
-    live: "https://hemantmohane29.github.io/Advanced-AI-Base-CHATBOT-Radha-2.0-/",
+    live: "https://advanced-ai-base-chatbot-radha-2-0.vercel.app/",
     image: "/chatbot2.png"
   },
   {
@@ -27,7 +27,7 @@ const projects = [
     icon: <MessageSquare size={26} strokeWidth={1.5} />,
     tech: ["HTML5", "CSS3", "JavaScript", "Gemini API"],
     github: "#",
-    live: "https://hemantmohane29.github.io/SAMADHAN-2.0-WEBSITE-BUILDER-APPLICATION-/",
+    live: "https://samadhan-2-0-website-builder-applic.vercel.app//",
     image: "/radha3.png"
   },
   {
